@@ -1,0 +1,14 @@
+.navbarDiv {
+    width: 100vw;
+    display: flex;
+    box-sizing: border-box;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.1);
+    border-bottom: 2px solid #ffffff;
+}
+
+.navbarImg {
+    padding: 1.5rem 4rem;
+    width: 8rem;
+    height: 2.5rem;
+}
+

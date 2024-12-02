@@ -1,0 +1,16 @@
+.heroDiv {
+    display: flex;
+    flex-direction: column;
+    padding: 3rem 4rem;
+    background-color: rgb(247, 247, 247);
+}
+
+.heroImage {
+    align-self: center;
+    width: 80%;
+    max-width: 100%;
+}
+
+.heroText {
+    margin: 0rem;
+}

@@ -1,0 +1,9 @@
+.footerDiv {
+    width: 100vw;
+    display: flex;
+    padding: 1.5rem 4rem;
+    height: 2.5rem;
+    gap: 1rem;
+    align-items: center;
+    justify-content: center;
+}
